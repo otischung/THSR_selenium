@@ -1,0 +1,42 @@
+# StartStation = "左營"
+# StartStation = "台南"
+# StartStation = "嘉義"
+# StartStation = "雲林"
+# StartStation = "彰化"
+# StartStation = "台中"
+# StartStation = "苗栗"
+# StartStation = "新竹"
+# StartStation = "桃園"
+# StartStation = "板橋"
+StartStation = "台北"
+# StartStation = "南港"
+
+DestinationStation = "左營"
+# DestinationStation = "台南"
+# DestinationStation = "嘉義"
+# DestinationStation = "雲林"
+# DestinationStation = "彰化"
+# DestinationStation = "台中"
+# DestinationStation = "苗栗"
+# DestinationStation = "新竹"
+# DestinationStation = "桃園"
+# DestinationStation = "板橋"
+# DestinationStation = "台北"
+# DestinationStation = "南港"
+
+car = "trainCon:trainRadioGroup_0"  # 標準車廂
+# car = "trainCon:trainRadioGroup_1"  # 商務車廂
+PreferSeat = "seatRadio0"  # 不指定
+# PreferSeat = "seatRadio1"  # 靠窗優先
+# PreferSeat = "seatRadio2"  # 走道優先
+Date = "2021/03/28"  # 搭乘日期
+TrainNumber = "333"  # 車次號碼
+Adult_ticket = "1"  # 全票人數
+Child_ticket = "0"  # 孩童票 (6-11歲) 人數
+Disabled_ticket = "0"  # 愛心票人數
+Senior_ticket = "0"  # 敬老票 (65歲以上) 人數
+College_ticket = "0"  # 大學生人數
+
+ID = ""  # 身分證字號
+Phone = "09"  # 手機號碼
+E_mail = ""  # 電子郵件信箱
